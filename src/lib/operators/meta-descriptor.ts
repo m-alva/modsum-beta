@@ -1,5 +1,6 @@
-import { MetaPropKey } from '../symbols/meta-prop.symbol'
+import "reflect-metadata";
 import { MetaPropOptions } from  '../interfaces/meta-prop-options';
+import { MetaPropKey } from '../symbols/meta-prop.symbol';
 
 type MetaclassDescriptor<T> = {
     [P in keyof T]?: MetaPropOptions;
