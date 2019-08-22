@@ -1,6 +1,6 @@
 import "reflect-metadata";
-import { testModel } from './test/test-model';
-import { testMeta } from './test/test-meta';
+import { testModel } from './src/test/test-model';
+import { testMeta } from './stc/test/test-meta';
 
 // Import stylesheets
 import './style.css';

@@ -1,3 +1,3 @@
-# mosum
+# Mosume
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/mosum)
+Modulo para consumir APIs y generar modelos y respositorios con typescript
