@@ -1,7 +1,6 @@
 {
   "name": "mosum",
   "version": "1.0.0",
-  "private": true,
   "description": "Modulo para consumir APIs y generar modelos y respositorios con typescript",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
